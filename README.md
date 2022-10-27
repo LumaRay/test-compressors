@@ -43,7 +43,7 @@ You can find links to the algorithms' web pages in the first comments of the cor
 |  rust  | lz4 lvl2  | mondial-3.0-mini.json | 22% | 1962 /  639 |
 |  rust  | zstd lvl1  | mondial-3.0-mini.json | 14% | 2725 / 1022 |
 
-## Conslusions:
+## Conclusions:
 
 * zstd has ~x1.5 slower compression than lz4 
 * zstd has ~x1.5 better compression rate than lz4 
