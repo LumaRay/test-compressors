@@ -1,0 +1,133 @@
+mondial-3.0.xml
+
+Compress level 0 ratio 15.930694 : 2.289733383s
+Decompress level 0 : 872.13051ms
+Compress level 1 ratio 15.930694 : 2.346962743s
+Decompress level 1 : 899.390657ms
+Compress level 2 ratio 15.930694 : 2.238448751s
+Decompress level 2 : 870.895676ms
+Compress level 3 ratio 11.895284 : 10.424084343s
+Decompress level 3 : 761.779803ms
+Compress level 4 ratio 11.662712 : 12.185087866s
+Decompress level 4 : 750.392813ms
+Compress level 5 ratio 11.51351 : 14.293430877s
+Decompress level 5 : 742.426835ms
+Compress level 6 ratio 11.470536 : 17.199563878s
+Decompress level 6 : 725.257948ms
+Compress level 7 ratio 11.400277 : 20.619822865s
+Decompress level 7 : 734.969258ms
+Compress level 8 ratio 11.322791 : 24.535685306s
+Decompress level 8 : 727.498086ms
+Compress level 9 ratio 11.276456 : 31.010796253s
+Decompress level 9 : 707.097657ms
+Compress level 10 ratio 11.351197 : 51.874114709s
+Decompress level 10 : 745.978262ms
+Compress level 11 ratio 11.172468 : 156.86032637s
+Decompress level 11 : 873.375164ms
+Compress level 12 ratio 11.141428 : 115.795914931s
+Decompress level 12 : 760.284754ms
+Compress level 13 ratio 11.141428 : 115.957484922s
+Decompress level 13 : 746.471603ms
+Compress level 14 ratio 11.141428 : 114.104729892s
+Decompress level 14 : 748.352277ms
+Compress level 15 ratio 11.141428 : 113.951655706s
+Decompress level 15 : 743.070645ms
+Compress level 16 ratio 11.141428 : 114.028161062s
+Decompress level 16 : 743.849434ms
+Compress level 17 ratio 11.141428 : 114.682306217s
+Decompress level 17 : 763.206057ms
+Compress level 18 ratio 11.141428 : 115.007072589s
+Decompress level 18 : 733.017341ms
+Compress level 19 ratio 11.141428 : 116.081071564s
+Decompress level 19 : 751.344019ms
+Compress level 20 ratio 11.141428 : 117.25402371s
+Decompress level 20 : 873.198354ms
+Compress level 21 ratio 11.141428 : 119.045119845s
+Decompress level 21 : 735.577689ms
+Compress level 22 ratio 11.141428 : 119.849529493s
+Decompress level 22 : 777.624487ms
+Compress level 23 ratio 11.141428 : 114.868142542s
+Decompress level 23 : 734.426854ms
+Compress level 24 ratio 11.141428 : 114.931315199s
+Decompress level 24 : 748.440132ms
+
+mondial-3.0.json
+
+Compress level 0 ratio 10.069969 : 4.270094615s
+Decompress level 0 : 1.725756013s
+Compress level 1 ratio 10.069969 : 3.787326524s
+Decompress level 1 : 1.767970516s
+Compress level 2 ratio 10.069969 : 3.714536735s
+Decompress level 2 : 1.733501359s
+Compress level 3 ratio 6.6800036 : 18.856979343s
+Decompress level 3 : 1.308038573s
+Compress level 4 ratio 6.5060368 : 19.004814321s
+Decompress level 4 : 1.324244835s
+Compress level 5 ratio 6.3438835 : 22.619874379s
+Decompress level 5 : 1.31564252s
+Compress level 6 ratio 6.229153 : 27.794351796s
+Decompress level 6 : 1.372672958s
+Compress level 7 ratio 6.185166 : 32.499974312s
+Decompress level 7 : 1.233087679s
+Compress level 8 ratio 6.161119 : 41.843025048s
+Decompress level 8 : 1.276643653s
+Compress level 9 ratio 6.1164055 : 49.337563983s
+Decompress level 9 : 1.226496348s
+Compress level 10 ratio 6.361618 : 55.515132879s
+Decompress level 10 : 1.229279571s
+Compress level 11 ratio 6.114674 : 252.208141069s
+Decompress level 11 : 1.194475906s
+
+mondial-3.0-mini.xml
+
+Compress level 0 ratio 20.96718 : 2.056874778s
+Decompress level 0 : 633.55167ms
+Compress level 1 ratio 20.96718 : 1.931090287s
+Decompress level 1 : 605.445509ms
+Compress level 2 ratio 20.96718 : 1.875344842s
+Decompress level 2 : 605.300866ms
+Compress level 3 ratio 16.279596 : 8.816299833s
+Decompress level 3 : 575.496208ms
+Compress level 4 ratio 15.98177 : 10.867349238s
+Decompress level 4 : 537.946866ms
+Compress level 5 ratio 15.82 : 13.117757503s
+Decompress level 5 : 547.848133ms
+Compress level 6 ratio 15.733069 : 14.945591178s
+Decompress level 6 : 580.485341ms
+Compress level 7 ratio 15.681814 : 18.641375582s
+Decompress level 7 : 571.187837ms
+Compress level 8 ratio 15.652525 : 21.690448025s
+Decompress level 8 : 536.276832ms
+Compress level 9 ratio 15.636944 : 25.556426587s
+Decompress level 9 : 567.74354ms
+Compress level 10 ratio 15.630302 : 47.395527626s
+Decompress level 10 : 554.126226ms
+Compress level 11 ratio 15.513743 : 99.576974311s
+Decompress level 11 : 610.62049ms
+
+mondial-3.0-mini.json
+
+Compress level 0 ratio 22.214132 : 2.394926487s
+Decompress level 0 : 677.574066ms
+Compress level 1 ratio 22.214132 : 2.047527902s
+Decompress level 1 : 642.789396ms
+Compress level 2 ratio 22.214132 : 1.962114887s
+Decompress level 2 : 638.751464ms
+Compress level 3 ratio 16.526743 : 9.844022692s
+Decompress level 3 : 579.583842ms
+Compress level 4 ratio 16.185066 : 11.693054765s
+Decompress level 4 : 584.886485ms
+Compress level 5 ratio 15.995323 : 13.667141016s
+Decompress level 5 : 562.374111ms
+Compress level 6 ratio 15.888272 : 16.42399738s
+Decompress level 6 : 581.937013ms
+Compress level 7 ratio 15.831383 : 20.341207974s
+Decompress level 7 : 561.551279ms
+Compress level 8 ratio 15.787609 : 26.474958365s
+Decompress level 8 : 568.294851ms
+Compress level 9 ratio 15.765296 : 31.09248803s
+Decompress level 9 : 552.283098ms
+Compress level 10 ratio 15.820142 : 52.088428298s
+Decompress level 10 : 585.561982ms
+Compress level 11 ratio 15.627586 : 122.127575602s
+Decompress level 11 : 545.281458ms
