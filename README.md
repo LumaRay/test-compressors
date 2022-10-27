@@ -45,5 +45,5 @@ You can find links to the algorithms' web pages in the first comments of the cor
 
 ## Conslusions:
 
-zstd has ~x1.5 slower compression than lz4 
-zstd does ~x1.5 better compression rate than lz4 
+* zstd has ~x1.5 slower compression than lz4 
+* zstd does ~x1.5 better compression rate than lz4 
