@@ -39,28 +39,28 @@ You can find links to the algorithms' web pages in the first comments of the cor
 |  rust  | zip-zstd lvl+1  | mondial-3.0.xml | 10% | 3466 / 1959 |
 |  rust  | zip-zstd lvl-6  | mondial-3.0.xml | 16% | 2722 / 1765 |
 |  rust  | lz4 lvl2  | mondial-3.0.xml | 16% | 2238 /  871 |
-|  rust  | zip>lz4 lvl2  | mondial-3.0.xml.zip | 16% | 2592 /  1530 |
+|  rust  | zip>lz4 lvl2  | mondial-3.0.xml | 16% | 2592 /  1530 |
 |:-------:|:---------:|:---------:|:---------:|:---------:|
 |  rust  | zip-store  | mondial-3.0-mini.xml | 100% | 208 / 435 |
 |  rust  | zstd lvl1  | mondial-3.0-mini.xml | 14% | 2718 /  994 |
 |  rust  | zip-zstd lvl+1  | mondial-3.0-mini.xml | 14% | 2758 / 1590 |
 |  rust  | zip-zstd lvl-6  | mondial-3.0-mini.xml | 21% | 2167 / 1313 |
 |  rust  | lz4 lvl2  | mondial-3.0-mini.xml | 21% | 1875 /  605 |
-|  rust  | zip>lz4 lvl2  | mondial-3.0-mini.xml.zip | 21% | 2083 /  1040 |
+|  rust  | zip>lz4 lvl2  | mondial-3.0-mini.xml | 21% | 2083 /  1040 |
 |:-------:|:---------:|:---------:|:---------:|:---------:|
 |  rust  | zip-store  | mondial-3.0.json | 100% | 1237 / 1899 |
 |  rust  | zstd lvl1  | mondial-3.0.json | 6% | 4597 / 1777 |
 |  rust  | zip-zstd lvl+1  | mondial-3.0.json | 6% | 4651 / 3561 |
 |  rust  | zip-zstd lvl-6  | mondial-3.0.json | 10% | 3971 / 3574 |
 |  rust  | lz4 lvl2  | mondial-3.0.json | 10% | 3715 / 1734 |
-|  rust  | zip>lz4 lvl2  | mondial-3.0.json.zip | 10% | 4952 / 3633 |
+|  rust  | zip>lz4 lvl2  | mondial-3.0.json | 10% | 4952 / 3633 |
 |:-------:|:---------:|:---------:|:---------:|:---------:|
 |  rust  | zip-store  | mondial-3.0-mini.json | 100% | 269 / 420 |
 |  rust  | zstd lvl1  | mondial-3.0-mini.json | 14% | 2725 / 1022 |
 |  rust  | zip-zstd lvl+1  | mondial-3.0-mini.json | 14% | 2824 / 1546 |
 |  rust  | zip-zstd lvl-6  | mondial-3.0-mini.json | 21% | 2188 / 1294 |
 |  rust  | lz4 lvl2  | mondial-3.0-mini.json | 22% | 1962 /  639 |
-|  rust  | zip>lz4 lvl2  | mondial-3.0-mini.json.zip | 22% | 2231 /  1059 |
+|  rust  | zip>lz4 lvl2  | mondial-3.0-mini.json | 22% | 2231 /  1059 |
 
 ## Conclusions
 
