@@ -1,0 +1,29 @@
+use std::fs::File;
+use std::io::Read;
+use std::io::Write;
+
+use zip;
+use zip::CompressionMethod;
+
+const FILE_NAME: &str = "mondial-3.0-mini.json";
+
+fn main() {
+    let mut f = File::open("/home/test/test-xml-json/data/".to_owned() + FILE_NAME).unwrap();
+    let mut buf_to_pack: Vec<u8> = vec![];
+    f.read_to_end(&mut buf_to_pack).unwrap();
+    let mut buf_packed: Vec<u8> = vec![];
+    let mut zip = zip::ZipWriter::new(std::io::Cursor::new(&mut buf_packed));
+    let options = zip::write::FileOptions::default()
+        .compression_method(CompressionMethod::Zstd)
+        .compression_level(Some(-7));
+    zip.start_file(FILE_NAME, options).unwrap();
+    zip.write_all(&buf_to_pack).unwrap();
+    zip.finish().unwrap();
+    drop(zip);
+    let mut buf_unpacked = vec![];
+    let mut archive = zip::ZipArchive::new(std::io::Cursor::new(&mut buf_packed)).unwrap();
+    let mut file = archive.by_name(FILE_NAME).unwrap();
+    file.read_to_end(&mut buf_unpacked).unwrap();
+    drop(file);
+    println!("{} {} {}", buf_to_pack.len(), buf_packed.len(), buf_unpacked.len());
+}

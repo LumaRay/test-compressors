@@ -1,0 +1,324 @@
+
+mondial-3.0-mini.xml
+
+Compress method Stored level 0 ratio 100.01175 : 208.246037ms
+Decompress method Stored level 0 : 435.266526ms
+
+Compress method Zstd level -7 ratio 22.400463 : 2.213131672s
+Decompress method Zstd level -7 : 1.279750313s
+Compress method Zstd level -6 ratio 21.190338 : 2.166654053s
+Decompress method Zstd level -6 : 1.3131003s
+Compress method Zstd level -5 ratio 20.002691 : 2.196993566s
+Decompress method Zstd level -5 : 1.422620396s
+Compress method Zstd level -4 ratio 19.089882 : 2.612088173s
+Decompress method Zstd level -4 : 1.402401542s
+Compress method Zstd level -3 ratio 17.909983 : 2.533622802s
+Decompress method Zstd level -3 : 1.33640018s
+Compress method Zstd level -2 ratio 17.060265 : 2.391179111s
+Decompress method Zstd level -2 : 1.319061302s
+Compress method Zstd level -1 ratio 16.263079 : 2.465214513s
+Decompress method Zstd level -1 : 1.358090306s
+Compress method Zstd level 0 ratio 14.034229 : 3.675833599s
+Decompress method Zstd level 0 : 1.590008729s
+Compress method Zstd level 1 ratio 13.679272 : 2.758137687s
+Decompress method Zstd level 1 : 1.590377096s
+Compress method Zstd level 2 ratio 13.771991 : 2.971671313s
+Decompress method Zstd level 2 : 1.599683305s
+Compress method Zstd level 3 ratio 14.034229 : 3.71343268s
+Decompress method Zstd level 3 : 1.580780127s
+Compress method Zstd level 4 ratio 14.042487 : 3.676470021s
+Decompress method Zstd level 4 : 1.567372218s
+Compress method Zstd level 5 ratio 13.030403 : 10.027741288s
+Decompress method Zstd level 5 : 1.626184739s
+Compress method Zstd level 6 ratio 12.210655 : 13.06924341s
+Decompress method Zstd level 6 : 1.451319099s
+Compress method Zstd level 7 ratio 12.092818 : 18.736520611s
+Decompress method Zstd level 7 : 1.427482039s
+Compress method Zstd level 8 ratio 11.283713 : 22.283141524s
+Decompress method Zstd level 8 : 1.404002037s
+Compress method Zstd level 9 ratio 11.285416 : 26.822028813s
+Decompress method Zstd level 9 : 1.352130525s
+Compress method Zstd level 10 ratio 11.205978 : 37.26307476s
+Decompress method Zstd level 10 : 1.399606057s
+Compress method Zstd level 11 ratio 11.163407 : 48.524234407s
+Decompress method Zstd level 11 : 1.359692146s
+Compress method Zstd level 12 ratio 11.162641 : 69.672160931s
+Decompress method Zstd level 12 : 1.30859551s
+
+Compress method Deflated level 0 ratio 100.027504 : 16.779282559s
+Decompress method Deflated level 0 : 718.65428ms
+Compress method Deflated level 1 ratio 18.911509 : 5.218379146s
+Decompress method Deflated level 1 : 2.762589742s
+Compress method Deflated level 2 ratio 15.159552 : 7.686733738s
+Decompress method Deflated level 2 : 2.288139511s
+Compress method Deflated level 3 ratio 14.077822 : 10.748843258s
+Decompress method Deflated level 3 : 2.159006966s
+Compress method Deflated level 4 ratio 13.243174 : 11.505019216s
+Decompress method Deflated level 4 : 2.135852091s
+Compress method Deflated level 5 ratio 13.060629 : 14.289480847s
+Decompress method Deflated level 5 : 2.110848664s
+Compress method Deflated level 6 ratio 12.834321 : 24.760037749s
+Decompress method Deflated level 6 : 1.997264424s
+Compress method Deflated level 7 ratio 12.779149 : 32.205170601s
+Decompress method Deflated level 7 : 2.015512819s
+Compress method Deflated level 8 ratio 12.739472 : 37.478758587s
+Decompress method Deflated level 8 : 2.043582779s
+Compress method Deflated level 9 ratio 12.719379 : 40.256468371s
+Decompress method Deflated level 9 : 2.086820674s
+
+Compress method Bzip2 level 1 ratio 10.096321 : 102.177560668s
+Decompress method Bzip2 level 1 : 20.325741033s
+Compress method Bzip2 level 2 ratio 9.551327 : 106.363900932s
+Decompress method Bzip2 level 2 : 21.475818298s
+Compress method Bzip2 level 3 ratio 9.467206 : 110.162635724s
+Decompress method Bzip2 level 3 : 24.834400045s
+Compress method Bzip2 level 4 ratio 9.253074 : 119.632516307s
+Decompress method Bzip2 level 4 : 23.71981082s
+Compress method Bzip2 level 5 ratio 9.315398 : 118.037258263s
+Decompress method Bzip2 level 5 : 23.129147594s
+
+mondial-3.0-mini.json
+
+Compress method Stored level 0 ratio 100.011925 : 269.28737ms
+Decompress method Stored level 0 : 420.428024ms
+
+Compress method Zstd level -7 ratio 22.28073 : 2.232234354s
+Decompress method Zstd level -7 : 1.282284726s
+++Compress method Zstd level -6 ratio 21.036917 : 2.187741246s
+++Decompress method Zstd level -6 : 1.294240868s
+Compress method Zstd level -5 ratio 19.874435 : 2.276654831s
+Decompress method Zstd level -5 : 1.312201492s
+Compress method Zstd level -4 ratio 19.010622 : 2.280295649s
+Decompress method Zstd level -4 : 1.31822823s
+Compress method Zstd level -3 ratio 18.016594 : 2.317594862s
+Decompress method Zstd level -3 : 1.436072534s
+Compress method Zstd level -2 ratio 17.257872 : 2.471903661s
+Decompress method Zstd level -2 : 1.361884315s
+Compress method Zstd level -1 ratio 16.557146 : 2.662597501s
+Decompress method Zstd level -1 : 1.478535299s
+Compress method Zstd level 0 ratio 14.19684 : 3.6242039s
+Decompress method Zstd level 0 : 1.487103464s
+++Compress method Zstd level 1 ratio 14.062197 : 2.824201664s
+++Decompress method Zstd level 1 : 1.546250045s
+Compress method Zstd level 2 ratio 14.32169 : 3.143425673s
+Decompress method Zstd level 2 : 1.642068844s
+Compress method Zstd level 3 ratio 14.19684 : 3.677761982s
+Decompress method Zstd level 3 : 1.553812257s
+Compress method Zstd level 4 ratio 14.210296 : 3.660082948s
+Decompress method Zstd level 4 : 1.559302005s
+Compress method Zstd level 5 ratio 13.220781 : 10.008786591s
+Decompress method Zstd level 5 : 1.553211863s
+Compress method Zstd level 6 ratio 12.390693 : 13.242043944s
+Decompress method Zstd level 6 : 1.521077813s
+Compress method Zstd level 7 ratio 12.212956 : 18.935925684s
+Decompress method Zstd level 7 : 1.451286361s
++Compress method Zstd level 8 ratio 11.383464 : 22.786257858s
++Decompress method Zstd level 8 : 1.357680494s
+Compress method Zstd level 9 ratio 11.380994 : 27.482233774s
+Decompress method Zstd level 9 : 1.981892668s
+Compress method Zstd level 10 ratio 11.271645 : 41.971512863s
+Decompress method Zstd level 10 : 1.749142198s
+Compress method Zstd level 11 ratio 11.196275 : 56.797444147s
+Decompress method Zstd level 11 : 1.786378291s
+Compress method Zstd level 12 ratio 11.1964445 : 76.957347477s
+Decompress method Zstd level 12 : 1.667173413s
+Compress method Zstd level 13 ratio 11.1548 : 72.516867526s
+Decompress method Zstd level 13 : 1.401226485s
+Compress method Zstd level 14 ratio 11.08471 : 90.873622108s
+Decompress method Zstd level 14 : 1.371707454s
+Compress method Zstd level 15 ratio 11.051837 : 127.796658389s
+Decompress method Zstd level 15 : 1.335083444s
+Compress method Zstd level 16 ratio 10.5326805 : 232.111909802s
+Decompress method Zstd level 16 : 1.303185482s
+Compress method Zstd level 17 ratio 10.428866 : 247.176392933s
+Decompress method Zstd level 17 : 1.345091204s
+Compress method Zstd level 18 ratio 10.366101 : 384.165922054s
+Decompress method Zstd level 18 : 1.637578676s
+
+Compress method Deflated level 0 ratio 100.02767 : 16.692780397s
+Decompress method Deflated level 0 : 647.650508ms
+++Compress method Deflated level 1 ratio 19.612984 : 4.868823107s
+++Decompress method Deflated level 1 : 2.792067465s
+Compress method Deflated level 2 ratio 15.688564 : 7.764003698s
+Decompress method Deflated level 2 : 2.347953409s
+Compress method Deflated level 3 ratio 14.344684 : 11.201692106s
+Decompress method Deflated level 3 : 2.222769865s
+++Compress method Deflated level 4 ratio 13.568674 : 12.64713369s
+++Decompress method Deflated level 4 : 2.220113007s
+Compress method Deflated level 5 ratio 13.288316 : 14.675086238s
+Decompress method Deflated level 5 : 2.105198961s
+Compress method Deflated level 6 ratio 12.951665 : 27.178581529s
+Decompress method Deflated level 6 : 1.995943434s
+Compress method Deflated level 7 ratio 12.853726 : 38.996998878s
+Decompress method Deflated level 7 : 2.056446895s
+Compress method Deflated level 8 ratio 12.76439 : 54.35426657s
+Decompress method Deflated level 8 : 2.311446555s
+Compress method Deflated level 9 ratio 12.719338 : 66.251347367s
+Decompress method Deflated level 9 : 1.930675344s
+
+Compress method Bzip2 level 1 ratio 9.984909 : 102.934511175s
+Decompress method Bzip2 level 1 : 19.879119773s
+Compress method Bzip2 level 2 ratio 9.489854 : 111.3620875s
+Decompress method Bzip2 level 2 : 21.772400068s
+Compress method Bzip2 level 3 ratio 9.418827 : 109.941310178s
+Decompress method Bzip2 level 3 : 23.688523204s
+Compress method Bzip2 level 4 ratio 9.197998 : 121.129923643s
+Decompress method Bzip2 level 4 : 24.287248381s
+Compress method Bzip2 level 5 ratio 9.305219 : 117.95932476s
+Decompress method Bzip2 level 5 : 24.169460021s
+
+mondial-3.0.xml
+
+Compress method Stored level 0 ratio 100.00717 : 353.839515ms
+Decompress method Stored level 0 : 658.663769ms
+
+Compress method Zstd level -7 ratio 17.312958 : 2.628957191s
+Decompress method Zstd level -7 : 1.972456591s
+Compress method Zstd level -6 ratio 16.314764 : 2.722472017s
+Decompress method Zstd level -6 : 1.764710654s
+Compress method Zstd level -5 ratio 15.444876 : 2.812102311s
+Decompress method Zstd level -5 : 1.848290608s
+Compress method Zstd level -4 ratio 14.64194 : 2.935031819s
+Decompress method Zstd level -4 : 1.801093599s
+Compress method Zstd level -3 ratio 13.419691 : 2.807011498s
+Decompress method Zstd level -3 : 1.716716508s
+Compress method Zstd level -2 ratio 12.502962 : 3.138881333s
+Decompress method Zstd level -2 : 1.950063344s
+Compress method Zstd level -1 ratio 11.7404785 : 3.119335774s
+Decompress method Zstd level -1 : 1.924204354s
+Compress method Zstd level 0 ratio 10.457888 : 4.866694657s
+Decompress method Zstd level 0 : 2.367504025s
+Compress method Zstd level 1 ratio 10.15657 : 3.465992203s
+Decompress method Zstd level 1 : 1.958627098s
+Compress method Zstd level 2 ratio 10.277646 : 3.784638086s
+Decompress method Zstd level 2 : 1.925407875s
+Compress method Zstd level 3 ratio 10.457888 : 4.418675768s
+Decompress method Zstd level 3 : 2.339349155s
+Compress method Zstd level 4 ratio 10.445786 : 4.769449364s
+Decompress method Zstd level 4 : 2.290957504s
+Compress method Zstd level 5 ratio 9.4066925 : 13.047237135s
+Decompress method Zstd level 5 : 2.120620245s
+Compress method Zstd level 6 ratio 8.771896 : 17.132483173s
+Decompress method Zstd level 6 : 2.01148587s
+Compress method Zstd level 7 ratio 8.617931 : 22.907592092s
+Decompress method Zstd level 7 : 2.005206083s
+Compress method Zstd level 8 ratio 7.965655 : 26.742416976s
+Decompress method Zstd level 8 : 1.869424481s
+Compress method Zstd level 9 ratio 7.9668875 : 32.639587098s
+Decompress method Zstd level 9 : 1.900775451s
+Compress method Zstd level 10 ratio 7.825249 : 42.752476691s
+Decompress method Zstd level 10 : 1.808985424s
+Compress method Zstd level 11 ratio 7.7542057 : 56.155583516s
+Decompress method Zstd level 11 : 1.820432129s
+Compress method Zstd level 12 ratio 7.7543178 : 80.903131872s
+Decompress method Zstd level 12 : 2.1218813s
+
+Compress method Deflated level 0 ratio 100.02315 : 26.835187551s
+Decompress method Deflated level 0 : 1.301844934s
+Compress method Deflated level 1 ratio 14.211253 : 5.81347076s
+Decompress method Deflated level 1 : 3.407463571s
+Compress method Deflated level 2 ratio 11.534688 : 10.103547712s
+Decompress method Deflated level 2 : 2.899079604s
+Compress method Deflated level 3 ratio 10.315913 : 12.710322932s
+Decompress method Deflated level 3 : 2.628957584s
+Compress method Deflated level 4 ratio 9.714062 : 13.440955572s
+Decompress method Deflated level 4 : 2.495584323s
+Compress method Deflated level 5 ratio 9.500875 : 15.863224871s
+Decompress method Deflated level 5 : 2.441451838s
+Compress method Deflated level 6 ratio 9.214909 : 26.317537106s
+Decompress method Deflated level 6 : 2.437011984s
+Compress method Deflated level 7 ratio 9.119045 : 37.241454443s
+Decompress method Deflated level 7 : 2.373273533s
+Compress method Deflated level 8 ratio 9.056854 : 51.75498924s
+Decompress method Deflated level 8 : 2.403942438s
+Compress method Deflated level 9 ratio 9.0331545 : 61.426405378s
+Decompress method Deflated level 9 : 2.384380481s
+
+Compress method Bzip2 level 1 ratio 7.080302 : 138.273341955s
+Decompress method Bzip2 level 1 : 25.255137431s
+Compress method Bzip2 level 2 ratio 6.6156626 : 148.472559009s
+Decompress method Bzip2 level 2 : 27.671933325s
+Compress method Bzip2 level 3 ratio 6.3781605 : 162.292182689s
+Decompress method Bzip2 level 3 : 30.691845001s
+Compress method Bzip2 level 4 ratio 6.369532 : 169.147352062s
+Decompress method Bzip2 level 4 : 30.825893949s
+Compress method Bzip2 level 5 ratio 6.266553 : 183.399120336s
+Decompress method Bzip2 level 5 : 32.435794527s
+
+mondial-3.0.json
+
+Compress method Stored level 0 ratio 100.00363 : 1.237153757s
+Decompress method Stored level 0 : 1.899256206s
+
+Compress method Zstd level -7 ratio 11.299942 : 3.953627373s
+Decompress method Zstd level -7 : 4.038760088s
+Compress method Zstd level -6 ratio 10.425388 : 3.971027226s
+Decompress method Zstd level -6 : 3.574050998s
+Compress method Zstd level -5 ratio 9.315508 : 3.95437814s
+Decompress method Zstd level -5 : 3.443761138s
+Compress method Zstd level -4 ratio 8.491979 : 3.951191435s
+Decompress method Zstd level -4 : 3.927392558s
+Compress method Zstd level -3 ratio 7.656385 : 4.232002009s
+Decompress method Zstd level -3 : 3.645105753s
+Compress method Zstd level -2 ratio 7.146103 : 4.231564384s
+Decompress method Zstd level -2 : 3.353902262s
+Compress method Zstd level -1 ratio 6.667687 : 4.352201389s
+Decompress method Zstd level -1 : 3.357918101s
+Compress method Zstd level 0 ratio 6.0766354 : 5.744466288s
+Decompress method Zstd level 0 : 4.106989372s
+Compress method Zstd level 1 ratio 5.9719033 : 4.651417885s
+Decompress method Zstd level 1 : 3.561258339s
+Compress method Zstd level 2 ratio 6.0159745 : 5.082536881s
+Decompress method Zstd level 2 : 3.54671692s
+Compress method Zstd level 3 ratio 6.0766354 : 5.618456176s
+Decompress method Zstd level 3 : 3.987813386s
+Compress method Zstd level 4 ratio 6.0872483 : 6.202423073s
+Decompress method Zstd level 4 : 4.023395662s
+Compress method Zstd level 5 ratio 5.269333 : 20.938084562s
+Decompress method Zstd level 5 : 3.972184574s
+Compress method Zstd level 6 ratio 4.8369713 : 26.336127596s
+Decompress method Zstd level 6 : 3.586143179s
+Compress method Zstd level 7 ratio 4.6921062 : 32.829609343s
+Decompress method Zstd level 7 : 3.421386279s
+Compress method Zstd level 8 ratio 4.305687 : 37.142324224s
+Decompress method Zstd level 8 : 3.274410193s
+Compress method Zstd level 9 ratio 4.306692 : 39.879031782s
+Decompress method Zstd level 9 : 3.240217072s
+Compress method Zstd level 10 ratio 4.2166786 : 55.502149057s
+Decompress method Zstd level 10 : 3.191562333s
+Compress method Zstd level 11 ratio 4.1564646 : 70.900762449s
+Decompress method Zstd level 11 : 3.168419084s
+Compress method Zstd level 12 ratio 4.15666 : 96.386838185s
+Decompress method Zstd level 12 : 3.304343301s
+
+Compress method Deflated level 0 ratio 100.01941 : 51.505046941s
+Decompress method Deflated level 0 : 2.464005637s
+Compress method Deflated level 1 ratio 8.904093 : 7.36648478s
+Decompress method Deflated level 1 : 5.464944397s
+Compress method Deflated level 2 ratio 7.072483 : 15.136934379s
+Decompress method Deflated level 2 : 4.461443426s
+Compress method Deflated level 3 ratio 6.069905 : 18.116795411s
+Decompress method Deflated level 3 : 4.174846716s
+Compress method Deflated level 4 ratio 5.671085 : 17.720589048s
+Decompress method Deflated level 4 : 3.952583476s
+Compress method Deflated level 5 ratio 5.4958615 : 20.116152364s
+Decompress method Deflated level 5 : 3.98043078s
+Compress method Deflated level 6 ratio 5.270925 : 29.992874138s
+Decompress method Deflated level 6 : 3.639913445s
+Compress method Deflated level 7 ratio 5.211884 : 42.937564427s
+Decompress method Deflated level 7 : 4.016216103s
+Compress method Deflated level 8 ratio 5.1742363 : 61.829069913s
+Decompress method Deflated level 8 : 3.618994527s
+Compress method Deflated level 9 ratio 5.151363 : 73.544157684s
+Decompress method Deflated level 9 : 3.683183849s
+
+Compress method Bzip2 level 1 ratio 3.5873368 : 171.205876709s
+Decompress method Bzip2 level 1 : 33.264207014s
+Compress method Bzip2 level 2 ratio 3.3375719 : 183.309633033s
+Decompress method Bzip2 level 2 : 36.32651243s
+Compress method Bzip2 level 3 ratio 3.2404366 : 193.761244411s
+Decompress method Bzip2 level 3 : 37.335873979s
+Compress method Bzip2 level 4 ratio 3.1820939 : 207.280176158s
+Decompress method Bzip2 level 4 : 40.173439603s
+Compress method Bzip2 level 5 ratio 3.1551428 : 210.121316878s
+Decompress method Bzip2 level 5 : 40.105872725s
